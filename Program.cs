@@ -18,7 +18,6 @@ namespace WebJobChollos
             //}
             RepositoryBbdd repobbdd = new RepositoryBbdd();
             repobbdd.ActualizarChollos(chollos);
-            //Console.WriteLine("Chollos actualizados en BBDD");
         }
     }
 }
